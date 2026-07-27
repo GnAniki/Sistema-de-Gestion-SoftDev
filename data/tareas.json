@@ -1,0 +1,11 @@
+[
+    {
+        "id": "98143b0a",
+        "proyecto_id": "566a3974",
+        "titulo": "Desaroollo de codigo",
+        "descripcion": "Desarrollar el codigo de gestion en python utilizando especificamente Claude para desarrollarlo",
+        "responsable": "Antony",
+        "prioridad": "Alta",
+        "estado": "Pendiente"
+    }
+]

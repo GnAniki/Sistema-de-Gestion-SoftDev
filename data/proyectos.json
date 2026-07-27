@@ -1,0 +1,11 @@
+[
+    {
+        "id": "566a3974",
+        "nombre": "Software de gestion alimentaria",
+        "cliente_id": "7c89e191",
+        "fecha_inicio": "2026-07-26",
+        "fecha_entrega": "2026-08-25",
+        "estado": "Pendiente",
+        "presupuesto": 1000.0
+    }
+]
