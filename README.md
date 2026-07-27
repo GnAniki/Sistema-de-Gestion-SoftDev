@@ -6,6 +6,11 @@ Sistema web local para la gestión de clientes, proyectos y tareas con generaci�
 
 ## 🛠️ Requisitos Previos e Instalación
 
+tener instalado lo siguiente:
+-python versiones actuales
+-Git
+
+
 ### 1. Clonar el repositorio
 ```bash
 git clone [https://github.com/GnAniki/Sistema-de-Gestion-SoftDev.git](https://github.com/GnAniki/Sistema-de-Gestion-SoftDev.git)
